@@ -1,9 +1,0 @@
-{
-  "configs": [
-    {
-      "id": "mush",
-      "name": "Mush",
-      "file": "configs/mush"
-    }
-  ]
-}

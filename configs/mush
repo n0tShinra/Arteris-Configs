@@ -1,0 +1,557 @@
+HIDE:Themes:false
+MOD:Themes:true
+KEY:Themes:0
+SET:Themes:Bind Mode:Toggle
+SET:Themes:Theme:Lobelia
+HIDE:ClickGUI:false
+KEY:ClickGUI:54
+HIDE:KillAura:false
+MOD:KillAura:false
+KEY:KillAura:19
+SET:KillAura:Bind Mode:Toggle
+SET:KillAura:Mode:Switch
+SET:KillAura:Priority:Smart
+SET:KillAura:CPS (min):15.04
+SET:KillAura:CPS (max):20.0
+SET:KillAura:Range (others):3.0
+SET:KillAura:Range (rotate):6.01
+SET:KillAura:Hide swings:true
+SET:KillAura:Through entities:false
+SET:KillAura:Target passive:false
+SET:KillAura:Rotations enabled:true
+SET:KillAura:Look for:One Tick
+SET:KillAura:Rotation model:Linear
+SET:KillAura:Max angle:60.0
+SET:KillAura:Step angle:25.0
+SET:KillAura:Drift intensity:1.28
+SET:KillAura:Organic jitter:0.15
+SET:KillAura:Horizontal speed:50.0
+SET:KillAura:Vertical speed:56.25
+SET:KillAura:Increase FOV:true
+SET:KillAura:Multipoint horizontal:50.0
+SET:KillAura:Multipoint vertical:50.0
+SET:KillAura:Prefer center mass:false
+SET:KillAura:Disable on world join:true
+SET:KillAura:Disable on no weapon:false
+SET:KillAura:Render target:false
+SET:KillAura:Target color:16777215
+SET:KillAura:Target hurt color:16777215
+SET:KillAura:Target alpha:100.0
+SET:KillAura:Target hurt alpha:100.0
+SET:KillAura:Target expand:0.1
+SET:KillAura:Target outline:true
+SET:KillAura:Render range:false
+SET:KillAura:Range color:14436167
+SET:KillAura:Range secondary color:7946658
+SET:KillAura:Range alpha:210.0
+SET:KillAura:Range secondary alpha:60.0
+SET:KillAura:Range (attack):3.0
+SET:KillAura:Range (swing):4.57
+SET:KillAura:Field of view:180.0
+SET:KillAura:Visibility:Silent
+SET:KillAura:Move fix:Silent
+SET:KillAura:Switch delay:150.0
+SET:KillAura:Target invisibles:true
+SET:KillAura:Target hostile:true
+SET:KillAura:Target players:true
+SET:KillAura:Disable while mining:true
+SET:KillAura:Through walls:true
+SET:KillAura:Target teammates:false
+SET:KillAura:Hold attack:false
+HIDE:Auto Block:false
+MOD:Auto Block:false
+KEY:Auto Block:0
+SET:Auto Block:Bind Mode:Toggle
+SET:Auto Block:Mode:Fake
+SET:Auto Block:Range:5.94
+SET:Auto Block:Players:true
+SET:Auto Block:Hostile:false
+SET:Auto Block:Teammates:false
+SET:Auto Block:Invisibles:true
+SET:Auto Block:Fireballs:true
+SET:Auto Block:Arrows:true
+SET:Auto Block:Ender Pearls:true
+SET:Auto Block:Max hold time:50
+SET:Auto Block:Fake block visual:true
+SET:Auto Block:Lag enabled:false
+SET:Auto Block:Lag max time:50
+SET:Auto Block:Prevent delaying attacks:false
+SET:Auto Block:Block again immediately:false
+SET:Auto Block:Hold attack:false
+SET:Auto Block:Hold block:false
+SET:Auto Block:Only when hurt:false
+HIDE:LagRange:false
+MOD:LagRange:false
+KEY:LagRange:0
+SET:LagRange:Bind Mode:Toggle
+SET:LagRange:Delay:116
+SET:LagRange:Range:10.49
+SET:LagRange:Weapons Only:true
+SET:LagRange:Allow Tools:false
+SET:LagRange:Bot Check:true
+SET:LagRange:Teams:true
+SET:LagRange:Show Bar:true
+SET:LagRange:Bar Scale:100
+SET:LagRange:Bar X:0.0
+SET:LagRange:Bar Y:0.0
+HIDE:BackTrack:false
+MOD:BackTrack:false
+KEY:BackTrack:19
+SET:BackTrack:Bind Mode:Toggle
+SET:BackTrack:Maximum time:100
+SET:BackTrack:Range timeout:1.19
+SET:BackTrack:Range maximum:6.0
+SET:BackTrack:Players:true
+SET:BackTrack:Teammates:false
+SET:BackTrack:Invisibles:true
+SET:BackTrack:Disable on knockback:false
+SET:BackTrack:Real position:true
+SET:BackTrack:Real position color:16777215
+HIDE:AutoClicker:false
+MOD:AutoClicker:true
+KEY:AutoClicker:0
+SET:AutoClicker:Bind Mode:Toggle
+SET:AutoClicker:Mode:Stable
+SET:AutoClicker:CPS (min):17.83
+SET:AutoClicker:CPS (max):20.0
+SET:AutoClicker:Left Click:true
+SET:AutoClicker:Right Click:true
+SET:AutoClicker:Hit Select:false
+SET:AutoClicker:Break Blocks:true
+SET:AutoClicker:Butterfly:true
+SET:AutoClicker:Weapons Only:false
+SET:AutoClicker:Allow Tools:false
+SET:AutoClicker:Block Hit:true
+SET:AutoClicker:Block Hit Ticks:1.5
+HIDE:AimAssist:false
+MOD:AimAssist:false
+KEY:AimAssist:0
+SET:AimAssist:Bind Mode:Toggle
+SET:AimAssist:Mode:Legit
+SET:AimAssist:Range:5.14
+SET:AimAssist:FOV:360.0
+SET:AimAssist:Priority:Angle
+SET:AimAssist:Aim Point:Head
+SET:AimAssist:Strength:100
+SET:AimAssist:Max Speed:360.0
+SET:AimAssist:Vertical:100
+SET:AimAssist:Randomness:37
+SET:AimAssist:Center Aim:false
+SET:AimAssist:Only While Clicking:true
+SET:AimAssist:Weapons Only:true
+SET:AimAssist:Allow Tools:false
+SET:AimAssist:Through Walls:false
+SET:AimAssist:Teams:true
+SET:AimAssist:Bot Check:true
+SET:AimAssist:Invisibles:false
+SET:AimAssist:GCD Fix:true
+HIDE:NoHitDelay:true
+MOD:NoHitDelay:true
+KEY:NoHitDelay:0
+SET:NoHitDelay:Bind Mode:Toggle
+HIDE:Velocity:false
+MOD:Velocity:false
+KEY:Velocity:0
+SET:Velocity:Bind Mode:Toggle
+SET:Velocity:Mode:JumpReset
+SET:Velocity:Chance:80
+SET:Velocity:Horizontal:100
+SET:Velocity:Vertical:100
+SET:Velocity:Explosion Horizontal:100
+SET:Velocity:Explosion Vertical:100
+HIDE:WTap:true
+MOD:WTap:true
+KEY:WTap:0
+SET:WTap:Bind Mode:Toggle
+SET:WTap:Delay:5.5
+SET:WTap:Duration:1.5
+HIDE:AntiBot:true
+MOD:AntiBot:false
+KEY:AntiBot:0
+SET:AntiBot:Bind Mode:Toggle
+SET:AntiBot:Tablist:true
+SET:AntiBot:Invalid UUID:true
+SET:AntiBot:Stationary:false
+HIDE:Animations:true
+MOD:Animations:true
+KEY:Animations:0
+SET:Animations:Bind Mode:Toggle
+SET:Animations:Block Swing:Swong
+HIDE:Billiards:false
+MOD:Billiards:false
+KEY:Billiards:0
+SET:Billiards:Bind Mode:Toggle
+SET:Billiards:Mode:Multiplayer (Host)
+SET:Billiards:Bot Intelligence:Raven BS User
+SET:Billiards:Table Length:19.63
+SET:Billiards:Table Width:10.24
+HIDE:Sprint:true
+MOD:Sprint:true
+KEY:Sprint:0
+SET:Sprint:Bind Mode:Toggle
+SET:Sprint:Fov Fix:true
+HIDE:NoJumpDelay:true
+MOD:NoJumpDelay:false
+KEY:NoJumpDelay:0
+SET:NoJumpDelay:Bind Mode:Toggle
+SET:NoJumpDelay:Delay:3
+HIDE:NoSlowDown:false
+MOD:NoSlowDown:false
+KEY:NoSlowDown:0
+SET:NoSlowDown:Bind Mode:Toggle
+SET:NoSlowDown:Sword Method:MushMC
+SET:NoSlowDown:Food Method:Grim
+SET:NoSlowDown:Allow Sprinting:true
+HIDE:Inventory Move:true
+MOD:Inventory Move:true
+KEY:Inventory Move:0
+SET:Inventory Move:Bind Mode:Toggle
+HIDE:BedDefender:false
+MOD:BedDefender:false
+KEY:BedDefender:0
+SET:BedDefender:Bind Mode:Toggle
+SET:BedDefender:Wait to place:0
+SET:BedDefender:Optimize movement:true
+SET:BedDefender:Move fix:Silent
+SET:BedDefender:Activity:Bed Defense
+SET:BedDefender:Layout selection:Automatic
+SET:BedDefender:Layout name:67
+SET:BedDefender:New layout name:Copy
+SET:BedDefender:Saved layouts:@b64:aWRrfC03LDAsMSwzNTstNywwLDAsMzU7LTcsMCwtMSwzNTstOCwwLC0xLDM1Oy04LDAsLTIsMzU7LTksMCwtMSwzNTstOSwwLDAsMzU7LTksMCwxLDM1Oy05LDAsMiwzNTstOCwwLDIsMzU7LTgsMCwzLDM1Oy03LDAsMiwzNTstNiwwLDEsMTIxOy02LDAsMCwxMjE7LTcsMSwwLDEyMTstOCwxLDIsMzU7LTgsMSwxLDM1Oy04LDEsMCwzNTstOCwxLC0xLDM1Oy03LDEsMSwxMjE7LTgsMiwxLDEyMTstOCwyLDAsMTIxOy05LDEsMSwxMjE7LTksMSwwLDEyMTstOSwyLDAsMTIxOy0xMCwwLDEsMTIxOy0xMCwwLDAsMTIxCjY3fDAsMCwtMSw0OTsxLDAsMCw0OTsxLDAsMSw0OTswLDAsMiw0OTstMSwwLDEsNDk7LTEsMCwwLDQ5OzAsMSwwLDQ5OzAsMSwxLDQ5OzEsMSwwLDIwOzEsMSwxLDIwOzIsMCwwLDIwOzIsMCwxLDIwOzEsMCwyLDIwOzAsMSwyLDIwOzAsMCwzLDIwOy0xLDAsMiwyMDstMSwxLDEsMjA7LTEsMCwtMSwyMDswLDAsLTIsMjA7MSwwLC0xLDIwOzAsMSwtMSwyMDswLDIsMCwyMDswLDIsMSwyMDstMSwxLDAsMjA7LTIsMCwwLDIwOy0yLDAsMSwyMDstMiwwLDIsNTstMSwxLDIsNTstMSwwLDMsNTswLDEsMyw1OzAsMCw0LDU7MSwwLDMsNTsxLDEsMiw1OzIsMCwyLDU7MiwxLDEsNTsyLDEsMCw1OzMsMCwwLDU7MywwLDEsNTsyLDAsLTEsNTsxLDEsLTEsNTsxLDAsLTIsNTswLDEsLTIsNTswLDAsLTMsNTstMSwwLC0yLDU7LTEsMSwtMSw1Oy0yLDAsLTEsNTstMiwxLDAsNTstMiwxLDEsNTstMywwLDAsNTstMywwLDEsNTstMSwyLDAsNTstMSwyLDEsNTswLDIsMiw1OzEsMiwxLDU7MSwyLDAsNTswLDIsLTEsNTswLDMsMCw1OzAsMywxLDU7NCwwLDAsMTIxOzQsMCwxLDEyMTszLDAsMiwxMjE7MiwwLDMsMTIxOzEsMCw0LDEyMTswLDAsNSwxMjE7LTEsMCw0LDEyMTstMiwwLDMsMTIxOy0zLDAsMiwxMjE7LTQsMCwxLDEyMTstNCwwLDAsMTIxOy0zLDAsLTEsMTIxOy0yLDAsLTIsMTIxOy0xLDAsLTMsMTIxOzAsMCwtNCwxMjE7MSwwLC0zLDEyMTsyLDAsLTIsMTIxOzMsMCwtMSwxMjE7MywxLDAsMTIxOzMsMSwxLDEyMTsyLDEsMiwxMjE7MSwxLDMsMTIxOzAsMSw0LDEyMTstMSwxLDMsMTIxOy0yLDEsMiwxMjE7LTMsMSwxLDEyMTstMywxLC0xLDEyMTstMywxLDAsMTIxOy0yLDEsLTIsMTIxOy0yLDEsLTEsMTIxOy0xLDEsLTIsMTIxOzAsMSwtMywxMjE7MSwxLC0yLDEyMTsyLDEsLTEsMTIxOzEsMiwtMSwxMjE7MiwyLDAsMTIxOzIsMiwxLDEyMTsxLDIsMiwxMjE7MCwyLDMsMTIxOy0xLDIsMiwxMjE7LTIsMiwwLDEyMTstMiwyLDEsMTIxOy0xLDIsLTEsMTIxOzAsMiwtMiwxMjE7MCwzLC0xLDEyMTsxLDMsMCwxMjE7MSwzLDEsMTIxOzAsMywyLDEyMTstMSwzLDEsMTIxOy0xLDMsMCwxMjE7MCw0LDAsMTIxOzAsNCwxLDEyMQ==
+SET:BedDefender:Layout order:@b64:LU9CU0lESUFOCi1FTkRfR0xBU1NfV09PRAotRU5EX1dPT0wKK1dPT0RfV09PTAorV09PTAotY3VzdG9tOmlkawotY3VzdG9tOjY3
+HIDE:AutoTool:true
+MOD:AutoTool:true
+KEY:AutoTool:0
+SET:AutoTool:Bind Mode:Toggle
+SET:AutoTool:Switch Delay:1
+SET:AutoTool:Switch Back:true
+SET:AutoTool:Sneak Only:false
+HIDE:AutoSoup:true
+MOD:AutoSoup:true
+KEY:AutoSoup:0
+SET:AutoSoup:Bind Mode:Toggle
+SET:AutoSoup:Health:9.49
+SET:AutoSoup:Delay:0
+SET:AutoSoup:Drop on next tick:true
+SET:AutoSoup:Refill:false
+SET:AutoSoup:Refill mode:Silent
+SET:AutoSoup:Start delay:100
+SET:AutoSoup:Auto close:false
+SET:AutoSoup:Auto close no soup:true
+SET:AutoSoup:Close delay:500
+SET:AutoSoup:Bowl:Drop
+HIDE:Breaker:false
+MOD:Breaker:false
+KEY:Breaker:35
+SET:Breaker:Bind Mode:Toggle
+SET:Breaker:Break speed:1.0
+SET:Breaker:FOV:360.0
+SET:Breaker:Range:5.35
+SET:Breaker:Move fix:Silent
+SET:Breaker:Rate:0.11
+SET:Breaker:Allow KillAura:false
+SET:Breaker:Prioritize KillAura:false
+SET:Breaker:Break protection:true
+SET:Breaker:Only visible bed:false
+SET:Breaker:Ignore slow:false
+SET:Breaker:Ground spoof:false
+SET:Breaker:Disable right click:true
+SET:Breaker:Render block outline:true
+SET:Breaker:Send animations:true
+SET:Breaker:Silent swing:true
+HIDE:Chest Stealer:false
+MOD:Chest Stealer:false
+KEY:Chest Stealer:0
+SET:Chest Stealer:Bind Mode:Toggle
+SET:Chest Stealer:Start Delay:18
+SET:Chest Stealer:Min Delay:5
+SET:Chest Stealer:Max Delay:5
+SET:Chest Stealer:Steal Trash Items:false
+SET:Chest Stealer:Auto Close:true
+SET:Chest Stealer:Check Chest Name:false
+SET:Chest Stealer:Grab Mouse:false
+HIDE:FastPlace:false
+MOD:FastPlace:true
+KEY:FastPlace:0
+SET:FastPlace:Bind Mode:Toggle
+SET:FastPlace:Delay:1.0
+SET:FastPlace:Blocks Only:true
+SET:FastPlace:Place Fix:true
+SET:FastPlace:Skip Obsidian:true
+SET:FastPlace:Skip Interactable:true
+HIDE:Inventory Manager:false
+MOD:Inventory Manager:false
+KEY:Inventory Manager:0
+SET:Inventory Manager:Bind Mode:Toggle
+SET:Inventory Manager:Min Delay:1
+SET:Inventory Manager:Max Delay:2
+SET:Inventory Manager:Open Delay:1
+SET:Inventory Manager:Auto Armor:true
+SET:Inventory Manager:Auto Armor Interval:0
+SET:Inventory Manager:Drop Trash:false
+SET:Inventory Manager:Check Durability:true
+SET:Inventory Manager:Sword Slot:1
+SET:Inventory Manager:Pickaxe Slot:3
+SET:Inventory Manager:Shovel Slot:4
+SET:Inventory Manager:Axe Slot:2
+SET:Inventory Manager:Blocks Slot:2
+SET:Inventory Manager:Blocks:128
+SET:Inventory Manager:Projectile Slot:7
+SET:Inventory Manager:Projectiles:64
+SET:Inventory Manager:Gold Apple Slot:9
+SET:Inventory Manager:Arrow:256
+SET:Inventory Manager:Bow Slot:5
+HIDE:NoFall:false
+MOD:NoFall:false
+KEY:NoFall:0
+SET:NoFall:Bind Mode:Toggle
+SET:NoFall:Mode:Ladder
+SET:NoFall:Min Fall:4.0
+SET:NoFall:Place Delay:35
+HIDE:Scaffold:false
+MOD:Scaffold:false
+KEY:Scaffold:34
+SET:Scaffold:Bind Mode:Toggle
+SET:Scaffold:Rotations:Regular
+SET:Scaffold:Move fix:Silent
+SET:Scaffold:Sprint:None
+SET:Scaffold:Tower:Telly
+SET:Scaffold:Keep y:Telly
+SET:Scaffold:Ascend on press:false
+SET:Scaffold:Multi place:false
+SET:Scaffold:Safe walk:false
+SET:Scaffold:Swing:false
+SET:Scaffold:Item spoof:true
+SET:Scaffold:Block counter:true
+HIDE:ChestAura:false
+MOD:ChestAura:false
+KEY:ChestAura:0
+SET:ChestAura:Bind Mode:Toggle
+SET:ChestAura:Range:4.0
+SET:ChestAura:Render Circle:true
+HIDE:Bridge Assist:true
+MOD:Bridge Assist:false
+KEY:Bridge Assist:0
+SET:Bridge Assist:Bind Mode:Toggle
+SET:Bridge Assist:Require Sneak:false
+SET:Bridge Assist:Sneak Delay Min:9
+SET:Bridge Assist:Sneak Delay Max:24
+SET:Bridge Assist:Pitch Check:false
+SET:Bridge Assist:Pitch:45
+SET:Bridge Assist:Whitelist:false
+SET:Bridge Assist:Block Whitelist:
+SET:Bridge Assist:Blacklist:true
+SET:Bridge Assist:Block Blacklist:dispenser,noteblock,web,tnt,mob_spawner,enchanting_table,fence,jukebox,melon_block,command_block,anvil,glass_pane,stained_glass_pane,iron_bars,ice,packed_ice,redstone_block,gold_ore,iron_ore,coal_ore,lapis_ore,redstone_ore,acacia_stairs,wooden_pressure_plate,stone_pressure_plate,beacon,sapling,golden_rail,detector_rail,tallgrass,deadbush,yellow_flower,red_flower,brown_mushroom,red_mushroom,ladder,rail,trapdoor,waterlily,tripwire_hook,carpet,snow_layer,trapped_chest,daylight_detector,hopper,chest,torch,lever,redstone_torch,stone_button,wooden_button,cactus
+SET:Bridge Assist:Block Count:true
+HIDE:Arraylist:false
+MOD:Arraylist:true
+KEY:Arraylist:0
+SET:Arraylist:Bind Mode:Toggle
+SET:Arraylist:Animation length:250
+SET:Arraylist:Font size:15
+SET:Arraylist:Font shadow:true
+SET:Arraylist:Show suffixes:true
+SET:Arraylist:Background:true
+SET:Arraylist:Space out:true
+SET:Arraylist:Line:Left
+SET:Arraylist:Background Opacity:76
+SET:Arraylist:Module case:Default
+SET:Arraylist:Color mode:Theme
+HIDE:Watermark:false
+MOD:Watermark:true
+KEY:Watermark:0
+SET:Watermark:Bind Mode:Toggle
+SET:Watermark:Font size:15
+HIDE:Cape:false
+MOD:Cape:false
+KEY:Cape:0
+SET:Cape:Bind Mode:Toggle
+SET:Cape:Cape:Arteris
+HIDE:ESP:true
+MOD:ESP:true
+KEY:ESP:0
+SET:ESP:Bind Mode:Toggle
+SET:ESP:Mode:Normal
+SET:ESP:Range:128.0
+SET:ESP:Invisibles:true
+SET:ESP:Self:false
+SET:ESP:Box:true
+SET:ESP:Health Bar:true
+SET:ESP:Name:true
+SET:ESP:Distance:true
+SET:ESP:Equipment:true
+SET:ESP:Item Scale:88
+HIDE:BedESP:false
+MOD:BedESP:true
+KEY:BedESP:0
+SET:BedESP:Bind Mode:Toggle
+SET:BedESP:Range:80.0
+SET:BedESP:Rate:0.4
+SET:BedESP:Draw beam:false
+SET:BedESP:Only render first bed:false
+SET:BedESP:Render full block:false
+SET:BedESP:Fill:true
+SET:BedESP:Outline:true
+SET:BedESP:Covering blocks:false
+SET:BedESP:Covering scale:0.75
+SET:BedESP:Show tools only:false
+HIDE:Trails:true
+MOD:Trails:true
+KEY:Trails:0
+SET:Trails:Bind Mode:Toggle
+SET:Trails:Duration:5
+SET:Trails:Width:2.0
+HIDE:Free Look:false
+MOD:Free Look:false
+KEY:Free Look:33
+SET:Free Look:Bind Mode:Hold
+SET:Free Look:Switch to:Third person (reverse)
+HIDE:Glow:false
+MOD:Glow:false
+KEY:Glow:0
+SET:Glow:Bind Mode:Toggle
+SET:Glow:Preset:White Aura
+SET:Glow:Use Theme Colors:true
+SET:Glow:Custom Colors:false
+SET:Glow:Primary Color:8257754
+SET:Glow:Secondary Color:16737996
+SET:Glow:Glow Held Items:true
+SET:Glow:Glow Bare Hand:true
+SET:Glow:Weapons Only:false
+SET:Glow:Rim Width:100.0
+SET:Glow:Halo Radius:100.0
+SET:Glow:Trail Length:100.0
+SET:Glow:Opacity:1.0
+SET:Glow:Blend Mode:Additive
+SET:Glow:Quality:Medium
+SET:Glow:Alpha Cutoff:0.1
+SET:Glow:Trail Only Swings:false
+SET:Glow:Trail Color By Age:false
+HIDE:Anti Debuff:true
+MOD:Anti Debuff:true
+KEY:Anti Debuff:0
+SET:Anti Debuff:Bind Mode:Toggle
+SET:Anti Debuff:Blindness:true
+SET:Anti Debuff:Nausea:true
+HIDE:No Hurt Cam:true
+MOD:No Hurt Cam:true
+KEY:No Hurt Cam:0
+SET:No Hurt Cam:Bind Mode:Toggle
+HIDE:Atmosphere:true
+MOD:Atmosphere:false
+KEY:Atmosphere:0
+SET:Atmosphere:Bind Mode:Toggle
+SET:Atmosphere:Sky:None
+SET:Atmosphere:Time:Night
+SET:Atmosphere:Weather:Clear
+SET:Atmosphere:Use Theme Colors:true
+SET:Atmosphere:Custom Colors:false
+SET:Atmosphere:Primary Color:5971921
+SET:Atmosphere:Secondary Color:14696699
+SET:Atmosphere:Animation Speed:1.0
+SET:Atmosphere:Pattern Size:0.75
+SET:Atmosphere:Quality:High
+SET:Atmosphere:Rift Size:1.0
+SET:Atmosphere:Rift Energy:0.7
+SET:Atmosphere:Rift Streaks:0.6
+SET:Atmosphere:Rift Sparks:0.5
+SET:Atmosphere:Rift Breathing:0.5
+SET:Atmosphere:Rift Placement:North
+SET:Atmosphere:Rift Direction:0.0
+SET:Atmosphere:Crack Density:1.0
+SET:Atmosphere:Flash Rate:0.5
+SET:Atmosphere:Band Height:12.0
+SET:Atmosphere:Band Brightness:1.0
+HIDE:Target Info:true
+MOD:Target Info:true
+KEY:Target Info:0
+SET:Target Info:Bind Mode:Toggle
+SET:Target Info:X:56
+SET:Target Info:Y:51
+SET:Target Info:Scale:100
+HIDE:Break Indicator:true
+MOD:Break Indicator:true
+KEY:Break Indicator:0
+SET:Break Indicator:Bind Mode:Toggle
+SET:Break Indicator:Mode:Percentage
+SET:Break Indicator:Position X:50
+SET:Break Indicator:Position Y:76
+HIDE:Overlay:true
+MOD:Overlay:true
+KEY:Overlay:0
+SET:Overlay:Bind Mode:Toggle
+SET:Overlay:Bind Mode:Toggle
+SET:Overlay:Position X:-0.7848854
+SET:Overlay:Position Y:-4.716152
+SET:Overlay:Size:0.75
+SET:Overlay:Bind Mode:Toggle
+SET:Overlay:Position X:7.8488464
+SET:Overlay:Position Y:-2.358097
+SET:Overlay:Size:0.68
+SET:Overlay:Bind Mode:Toggle
+SET:Overlay:Position X:0.0
+SET:Overlay:Position Y:-7.074173
+SET:Overlay:Max rows:8
+SET:Overlay:Size:0.73
+SET:Overlay:Show Distance:true
+SET:Overlay:Show HP:true
+SET:Overlay:Show Kills:false
+SET:Overlay:Show Wins:false
+SET:Overlay:Show WS:false
+SET:Overlay:Show W/L:false
+SET:Overlay:Show Online Time:true
+SET:Overlay:Bind Mode:Toggle
+SET:Overlay:Position X:-1.0
+SET:Overlay:Position Y:0.0
+SET:Overlay:Label:Semsic
+SET:Overlay:Date:, 14 Nov
+SET:Overlay:Bind Mode:Toggle
+SET:Overlay:Position X:0.0
+SET:Overlay:Position Y:0.0
+SET:Overlay:Show Keybinds:false
+SET:Overlay:Keybinds Size:1.0
+HIDE:Tab List:false
+MOD:Tab List:true
+KEY:Tab List:0
+SET:Tab List:Bind Mode:Toggle
+SET:Tab List:Position X:-0.7848854
+SET:Tab List:Position Y:-4.716152
+SET:Tab List:Size:0.75
+HIDE:Session Info:false
+MOD:Session Info:true
+KEY:Session Info:0
+SET:Session Info:Bind Mode:Toggle
+SET:Session Info:Position X:7.8488464
+SET:Session Info:Position Y:-2.358097
+SET:Session Info:Size:0.68
+HIDE:Players:false
+MOD:Players:true
+KEY:Players:0
+SET:Players:Bind Mode:Toggle
+SET:Players:Position X:0.0
+SET:Players:Position Y:-7.074173
+SET:Players:Max rows:8
+SET:Players:Size:0.73
+SET:Players:Show Distance:true
+SET:Players:Show HP:true
+SET:Players:Show Kills:false
+SET:Players:Show Wins:false
+SET:Players:Show WS:false
+SET:Players:Show W/L:false
+SET:Players:Show Online Time:true
+HIDE:Info:false
+MOD:Info:true
+KEY:Info:0
+SET:Info:Bind Mode:Toggle
+SET:Info:Position X:-1.0
+SET:Info:Position Y:0.0
+SET:Info:Label:Semsic
+SET:Info:Date:, 14 Nov
+HIDE:Keybinds:false
+MOD:Keybinds:true
+KEY:Keybinds:0
+SET:Keybinds:Bind Mode:Toggle
+SET:Keybinds:Position X:0.0
+SET:Keybinds:Position Y:0.0
+SET:Keybinds:Show Keybinds:false
+SET:Keybinds:Keybinds Size:1.0
